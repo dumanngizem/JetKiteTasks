@@ -1,0 +1,20 @@
+PODS:
+  - Kingfisher (7.8.1)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - Kingfisher (~> 7.0)
+  - TinyConstraints (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Kingfisher: 63f677311d36a3473f6b978584f8a3845d023dc5
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: 68b9d51e59b7ec439a56c18b2e44b1a237e23c0c
+
+COCOAPODS: 1.11.3
